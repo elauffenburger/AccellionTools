@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccellionTools", "AccellionTools\AccellionTools.csproj", "{84F8FF1B-3798-4A3C-80A7-C55BCF7B5DC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccellionTest", "AccellionTest\AccellionTest.csproj", "{725C39C4-85F2-48BE-BA35-B3A2BF2B7B49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84F8FF1B-3798-4A3C-80A7-C55BCF7B5DC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84F8FF1B-3798-4A3C-80A7-C55BCF7B5DC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84F8FF1B-3798-4A3C-80A7-C55BCF7B5DC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84F8FF1B-3798-4A3C-80A7-C55BCF7B5DC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{725C39C4-85F2-48BE-BA35-B3A2BF2B7B49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{725C39C4-85F2-48BE-BA35-B3A2BF2B7B49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{725C39C4-85F2-48BE-BA35-B3A2BF2B7B49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{725C39C4-85F2-48BE-BA35-B3A2BF2B7B49}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
